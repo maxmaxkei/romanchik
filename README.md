@@ -5,7 +5,7 @@
 2. После установки запускаешь, должно повится чтото типа того:
    ![](https://github.com/maxmaxkei/romanchik/blob/master/images_for_readme/MAMP.png)
    
-3. Нажимаешь сюды:
+3. Нажимаешь сюды: 
    ![](https://github.com/maxmaxkei/romanchik/blob/master/images_for_readme/MAMP_3.png)
    
 4. После, должно получится чтото типа того:
@@ -15,7 +15,7 @@
 5. Скачиваешь проект с гитхаба.
 6. Заходишь в папку, где установлено MAMP в папку htdocs (у меня это C:\MAMP\htdocs)
 7. Кидаешь файлы прокта (именно сами файлы) в эту папку.
-8. Нажимаешь сюды:
+8. Нажимаешь сюды: 
    ![](https://github.com/maxmaxkei/romanchik/blob/master/images_for_readme/MAMP_4.png)
    
 9. Откроется страница с которой ты сможешь:
